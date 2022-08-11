@@ -23,6 +23,7 @@ function App() {
         </Switch>
       </main>
       <Header/>
+      <Footer/>
     </div>
   );
 }
